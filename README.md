@@ -1,6 +1,3 @@
-# Kaggle Notebook links
-- [Object Detection Comparison: Faster R-CNN vs YOLOv5](https://www.kaggle.com/code/tsewangstanzin/g5-bytsewang)
-- [GAF-Net_Potato_Disease](https://www.kaggle.com/code/tsewangstanzin/potato-gaf)
 
 # CVDL-Evaluations
 
@@ -184,6 +181,10 @@ CVDL-Evaluations/
 > *The GAF-Net architecture, enhanced with GSConv and FASFF modules, achieves strong classification performance on the 3-class potato disease dataset.*
 
 ---
+# Kaggle Notebook links
+- [Object Detection Comparison: Faster R-CNN vs YOLOv5](https://www.kaggle.com/code/tsewangstanzin/g5-bytsewang)
+- [GAF-Net_Potato_Disease](https://www.kaggle.com/code/tsewangstanzin/potato-gaf)
+----
 
 ## Author
 
