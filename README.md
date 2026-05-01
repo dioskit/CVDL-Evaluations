@@ -1,3 +1,7 @@
+# Kaggle Notebook links
+- [Object Detection Comparison: Faster R-CNN vs YOLOv5](https://www.kaggle.com/code/tsewangstanzin/g5-bytsewang)
+- [GAF-Net_Potato_Disease](https://www.kaggle.com/code/tsewangstanzin/potato-gaf)
+
 # CVDL-Evaluations
 
 > **Computer Vision & Deep Learning — Semester 6 Evaluation Projects**
@@ -32,7 +36,8 @@ Both projects are implemented as Kaggle notebooks and are accompanied by present
 
 ## Projects
 
-### 1. Object Detection Comparison: Faster R-CNN vs YOLOv5
+### 1. Object Detection Comparison: Faster R-CNN vs YOLOv5 
+- [Object Detection Comparison: Faster R-CNN vs YOLOv5](https://www.kaggle.com/code/tsewangstanzin/g5-bytsewang)
 
 **Notebook:** `g5-bytsewang (1).ipynb`
 **Presentation:** `CVDL-ODC-FasterRCNNvsYOLOv5.pptx`
@@ -69,6 +74,7 @@ Perform a rigorous performance comparison between **Faster R-CNN (ResNet50-FPN)*
 ---
 
 ### 2. GAF-Net: Potato Leaf Disease Detection (YOLOv8-based)
+- [GAF-Net_Potato_Disease](https://www.kaggle.com/code/tsewangstanzin/potato-gaf)
 
 **Notebook:** `potato-gaf (2).ipynb`
 **Presentation:** `GAF-Net_Potato_Disease.pptx`
